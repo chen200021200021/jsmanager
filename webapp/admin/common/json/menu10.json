@@ -1,0 +1,41 @@
+{
+	"webnm": "教师信息管理系统",
+	"data": 
+		[
+			{
+				"name": "用户管理",
+				"icon": "layui-icon-user",
+				"children": [
+					{
+						"name": "账号管理",
+						"url": "../../admin/user/list.jsp"
+					},
+					{
+						"name": "教师信息管理",
+						"url": "../../admin/userinfo30/list.jsp"
+					}
+				]
+			},
+			{
+				"name": "课程信息管理",
+				"icon": "layui-icon-template",
+				"url": "../../admin/kecheng/list.jsp"
+			},
+			{
+				"name": "考勤记录管理",
+				"icon": "layui-icon-theme",
+				"url": "../../admin/kaoqingjl/list.jsp"
+			},
+			{
+				"name": "考勤时间管理",
+				"icon": "layui-icon-theme",
+				"url": "../../admin/kaoqinsj/list.jsp"
+			},
+			{
+				"name": "修改密码",
+				"icon": "layui-icon-theme",
+				"url": "../../admin/user/updateMyPwd.jsp"
+			}
+		]
+}
+

@@ -1,0 +1,27 @@
+{
+	"webnm": "教师信息管理系统",
+	"data": 
+		[
+			{
+				"name": "我的课程列表",
+				"icon": "layui-icon-template",
+				"url": "../../admin/kecheng/list30.jsp"
+			},
+			{
+				"name": "个人资料",
+				"icon": "layui-icon-android",
+				"url": "../../admin/userinfo30/update.jsp"
+			},
+			{
+				"name": "修改密码",
+				"icon": "layui-icon-theme",
+				"url": "../../admin/user/updateMyPwd.jsp"
+			},
+			{
+				"name": "考勤签到",
+				"icon": "layui-icon-theme",
+				"url": "../../admin/userinfo30/kaoqin.jsp"
+			}
+		]
+}
+
